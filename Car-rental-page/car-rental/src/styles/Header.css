@@ -1,0 +1,20 @@
+.nav-bar{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   background-color: #323233;
+   color: #F1F1F1 ;
+   margin-bottom: 10px;
+
+}
+
+
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+li:hover{
+    color:#f5b919 ;
+    cursor: pointer;
+}

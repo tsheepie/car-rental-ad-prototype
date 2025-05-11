@@ -1,0 +1,42 @@
+.cards{
+    display: flex;
+    gap: 50px;
+    margin-left: 50px;
+    align-content: center;
+    align-items: center;
+    padding-left: 20rem;
+}
+
+.date{
+    background-color: black;
+    color: #F1F1F1 ;
+    width: 8rem;
+    text-align: center;
+    padding: 4px;
+    font-weight: 100;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: large;
+}
+
+.text{
+    font-weight: 100;
+    color: grey ;
+}
+
+.ArticleCard{
+    width: 15rem;
+    align-content: center;
+
+}
+
+.heading4{
+    font-weight: bold;
+    font-size: large;
+    color: #caa62e ;
+}
+
+
+
